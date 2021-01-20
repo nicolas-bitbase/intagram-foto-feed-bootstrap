@@ -1,0 +1,33 @@
+.columna {
+    display: flex;
+    justify-content: center;
+    background: lightgrey;
+    padding: 30px;
+   
+}
+.header {
+    display: flex; justify-content: space-between; 
+}
+.data {
+    display: flex;
+    
+}
+.card {
+    border: transparent;
+    
+}
+.pills {
+    display: flex;
+    justify-content: center;
+    padding-top: 14px;
+    
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: xx-large
+}
+    
+body {
+    max-width: 100%;
+}
