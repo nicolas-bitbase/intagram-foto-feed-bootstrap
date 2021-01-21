@@ -1,10 +1,9 @@
-.columna {
+.container {
     display: flex;
     justify-content: center;
-    background: lightgrey;
-    padding: 30px;
-   
+
 }
+
 .header {
     display: flex; justify-content: space-between; 
 }
@@ -14,6 +13,7 @@
 }
 .card {
     border: transparent;
+    padding: 30px;
     
 }
 .pills {
@@ -30,4 +30,8 @@
     
 body {
     max-width: 100%;
+}
+.comment{
+   color: lightgrey;
+   
 }
